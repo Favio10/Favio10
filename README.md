@@ -10,7 +10,13 @@
        alt="snake" /></a>
 </div>
 
+<br>
+
 <div align="center>
+
+<p> • Soy Desarrollador de software FullStack, aunque actualmente me siento mas interesado en BackEnd. Cuento con las habilidades tecnicas y practicas brindadas por la academia Henry, lo que seria React.js, NodeJS, Express, SQL, entre otras. Como asi tambien he sumado distintos contenidos de manera autodidacta a mi stack. Tengo experiencia practiva en diversos proyectos utilizando AWS, JWT entre otras tecnologias.
+  
+</p>
 
   • Soy Desarrollador de software FullStack, aunque actualmente me siento mas interesado en BackEnd. Cuento con las habilidades tecnicas y practicas brindadas por la academia Henry, lo que seria React.js, NodeJS, Express, SQL, entre otras. Como asi tambien he sumado distintos contenidos de manera autodidacta a mi stack. Tengo experiencia practiva en diversos proyectos utilizando AWS, JWT entre otras tecnologias.
 
